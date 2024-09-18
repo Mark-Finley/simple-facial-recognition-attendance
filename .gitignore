@@ -1,0 +1,4 @@
+# .gitignore
+fraenv/
+dlib-19.24/
+.idea/
